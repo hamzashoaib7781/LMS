@@ -1,0 +1,79 @@
+@charset "utf-8";
+/* CSS Document */
+
+.sidebar{
+			border-right: thick solid white;
+			background-color:rgb(0, 0, 0, 0.5);
+		}
+		.contant{
+			
+		}
+		#heading1{
+			text-align: center;
+			color: red;
+			text-decoration: none;
+			font-size: 40px;
+			text-shadow: 2px 2px 4px white;
+		}
+		#heading2{
+			text-align: center;
+			margin-top: 20px;
+			color: white;
+			font-size: 55px;
+		}
+		.button{
+			margin-top: 10px;
+			width: 80%;
+			font-weight: bold;
+			border: 2px solid white;
+			color: white;
+			height: 50px;
+			border-radius: 5px;
+			background-color:rgb(0, 0, 0, 0.6);
+		}
+		.button:hover{
+			background-color:brown;
+			color: black;
+		}
+		.box{
+			height: 200px;
+			border: 4px solid white;
+			background-color:rgb(0, 0, 0, 0.7);
+			color: white;
+			font-size: 30px;
+			border-radius: 15px;
+			line-height: 190px;
+			text-align: center
+		}
+		.box:hover{
+			background-color:rgb(120, 0, 0, 0.7);
+			color: black;
+		}
+		.box2{
+			height: 100px;
+			border: thin solid white;
+			background-color:rgb(0, 0, 0, 0.8);
+			color: white;
+			padding-top: 26px;
+			font-size: 30px;
+			border-radius: 10px;
+			width: 90%;
+			text-align: left;
+		}
+		.link{
+			text-decoration: none;
+			color: white;
+		}
+		.link:hover{
+			color: darkgray;
+		}
+		.link2{
+			font-size: 18px;
+			color: white;
+			font-weight: bold;
+			position: relative;
+			bottom: 14px;
+		}
+		.link2:hover{
+			color: aqua;
+		}
